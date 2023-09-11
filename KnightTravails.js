@@ -156,4 +156,6 @@ function transformUniqueObjectToArr(uniqueObj) {
     return newArr;
   }
 }
+
+// test
 newGraph.knightMoves([3, 3], [0, 0]);
